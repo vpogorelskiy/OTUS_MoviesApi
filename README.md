@@ -1,1 +1,3 @@
-# OTUS_MoviesApi
+# MoviesApi
+
+A description of this package.
